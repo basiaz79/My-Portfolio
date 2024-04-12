@@ -26,27 +26,55 @@ If you are looking for a QA Engineer with strong analytical skills, and a passio
 # <h2>CV</h2>
 Link to CV 
 
-# <h2>TECH SKILLS</h2>
+# <h2>TECH SKILLS and TOOLS</h2>
 
 <li>SQL</br>
+<li>DBeaver</br>
+DBeaver is to manage databases,
+•	Can connect to the database, view and modify data, run SQL queries,
+• Can create tables, insert, update and delete data and query the database to extract valuable information using SQL
+•	Can write complex requests using subqueries,
 <li>JSON</br>
 <li>HTML+ CSS</br>
-<li>Postman</br>
-<li>TestRail</br>
 <li>XML</br>
-<li>Jira</br>
-<li>Trello</br>
-<li>Qase</br>
-<li>Github</br>
-<li>DBeaver</br>
-<li>DevTools</br>
-<li>API testing</br>
-<li>CI/CD</br>
-<li>Mobile Testing</br>
 <li>Test cases and scenarios</br>
 <li>Bug reports</br>
-<li>Black and White-Box Testing</br>
 <li>Preparing test reports</br>
+<li>TestRail</br>
+Creating test cases and test suites,
+•	Familiar with using statistics for tracking and reporting testing progress and results.
+<li>Jira</br>
+Creating bug reports,
+• Creating projects and tracking their progress.
+<li>Qase</br>
+Qase for test case management,
+•	Creating, managing, and executing test cases within Qase,
+•	Tracking defects and planning tests in Qase.
+<li>Github</br>
+<li>Git</br>
+Git for version control, including committing changes, creating branches, and merging,
+•	Create repositories, send pull requests, and review code,
+•	Familiar with the process of collaborating on projects using Git and GitHub, including best practices for branching and merging.
+<li>DevTools</br>
+Browser's Developer Tools to inspect elements on a website,
+•	Tracking code execution in DevTools,
+•	Tracking network requests and responses, including HTTP status codes.
+<li>Trello</br>
+Manage various tasks,
+•	Creating, updating and tracking tasks in Trello,
+•	Used Kanban-style Trello boards to visualize project progress.
+<li>Postman</br>
+Interact with the Trello API, which allowed me to streamline tasks,
+• Creating and sending requests to test the functionality and performance of the Trello API,
+•	JS tests in Postman to check if the API works as expected.
+<li>API testing</br>
+Know the difference between SOAP and REST APIs,
+•	Gained experience through manual testing of the Trello API,
+• Manipulate requests and create test cases using the Postman tool.
+<li>CI/CD</br>
+<li>Mobile Testing</br>
+<li>Black and White-Box Testing</br>
+
 
 
 # <h2>CERTIFICATES</h2>
@@ -77,11 +105,11 @@ Link to CV
 # <h2>EDUCATION</h2>
 
 <li>GoIT | AQA (Automation)  Engineer (online studies)
-</li>April 2024- July 2024 (in progress)
+</li>April 2024- July 2024 (in progress)</br>
+JavaScript, Cypress, E2E tests, UI tests, HTTP API tests, Performance testing, CI/CD, BDD testing
 
 <li>GoIT | QA Manual Engineer (online studies)
 </li>November 2023- March 2024</br>
-Certificate QA Manual</br>
 Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 
 <li>Real Estate School (New Jersey, USA)
@@ -98,3 +126,21 @@ Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 
 Presentation Link
 [Presentation](https://docs.google.com/presentation/d/1rtCl5763RXg1zfW-k4Cnb_2lup7242aD/edit?usp=sharing&ouid=102642905155056726664&rtpof=true&sd=true)
+
+
+<h3>Practice</h3>
+
+•	Skype - Bug Report | Practice |PL|
+•	Documentation testing - Listboxer |PL|
+•	Slack - Smoke testing | Checklist |PL|
+•	Media Markt Web Application - Smoke testing |PL|
+•	Jira - Overview of some Bug Reports |PL|
+•	TestRail - Example Online Accounting Test Cases |PL|
+
+# <h2>Books</h2>
+•	"Pasja Testowania Wydanie II rozszerzone" - Krzysztof Jadczyk (in Polish)</br>
+The Passion for Testing is a handbook intented for people who are taking their first steps in the IT world and considering whether the work of a tester is for them. Software tester - that sounds good! But what are its tasks? What skills are required of him? Which tools will you be expected to know? Where to learn about them? And most of all: how do you know if you're going to be a good tester?
+•	"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II" - Adam Roman, Lucjan Stapp, Michaël Pilaeten(in Polish)</br>
+A self study guide based on the 2018 syllabus</br>
+•	"Automatyzacja Testów - kompletny Przewodnik Dla Testerów Oprogramowania" - Arnold Axelrod(in Polish)</br>
+This robust and thorough guide will help you build and maintain effective test automation. As the software industry moves away from traditional waterfall paradigms to more agile ones, test automation is becoming an important tool that allows development teams to deliver software at an ever-accelerating pace without compromising quality. 
