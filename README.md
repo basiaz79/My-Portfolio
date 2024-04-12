@@ -9,12 +9,16 @@ products and from my strengths, such as the ability to
 analyze and problem solving, attention to detail, and
 communication skills.
 
+I have basic knowledge and practical experience in testing SQL, API, HTML, XML, JSON. I have practiced extensively using tools such Testrail, Jira, Qase, Trello, DBeaver, Postman and DevTools. Currently I continue expanding my knowledge into Automation testing.
+
 I am motivated by the prospect of discovering new
 technologies, methodologies, and testing techniques to
 sharpen my skills. Expanding my knowledge base and
 working with a team of like minded individuals where
 ideas are shared, challenges are tackled collectively, and
 successes are celebrated together
+
+If you are looking for a QA Engineer with strong analytical skills, and a passion for creating high-quality products, please feel free to contact me.
 
 
 # <h2>TECH SKILLS</h2>
