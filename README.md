@@ -18,6 +18,8 @@ working with a team of like minded individuals where
 ideas are shared, challenges are tackled collectively, and
 successes are celebrated together
 
+I enjoy working in a team and collaborating with others. I am looking for a company where I could use my skills and become a valuable team member.
+
 If you are looking for a QA Engineer with strong analytical skills, and a passion for creating high-quality products, please feel free to contact me.
 
 
