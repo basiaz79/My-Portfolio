@@ -87,7 +87,7 @@ o	Tools: Flowchart app (app.code2flow.com) The diagrams and pseudocode are prepa
 
 <li>2024- ISTQB Certificate -in Progress
 <li>2024- QA Manual Engineer Certificate</br> 
- (QA Manual Certificate [https://drive.google.com/file/d/1cxdYSNfoE7iIdi4OmQE32YA3ZU3xis1m/view?usp=sharing])
+[Certificate](https://drive.google.com/file/d/1cxdYSNfoE7iIdi4OmQE32YA3ZU3xis1m/view?usp=sharing)
 
 
 # <h2>SOFT SKILLS</h2>
