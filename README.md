@@ -52,7 +52,7 @@ Link to CV
 # <h2>CERTIFICATES</h2>
 
 <li>2024- ISTQB Certificate -in Progress
-<li>2024- QA Manual Engineer Certificate
+<li>2024- QA Manual Engineer Certificate - [QA Manual Certificate file:///C:/Users/Lenovo/Documents/QA%20Manual%20Certificate%20GoIT.pdf]
 
 
 # <h2>SOFT SKILLS</h2>
@@ -79,7 +79,9 @@ Link to CV
 </li>April 2024- July 2024 (in progress)
 
 <li>GoIT | QA Manual Engineer (online studies)
-</li>November 2023- March 2024
+</li>November 2023- March 2024</br>
+Certificate QA Manual</br>
+Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 
 <li>Real Estate School (New Jersey, USA)
 </li>March 2011 – May 2011
