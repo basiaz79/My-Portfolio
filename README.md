@@ -70,16 +70,16 @@ If you are looking for a QA Engineer with strong analytical skills, and a passio
 
 # <h2>EDUCATION</h2>
 
-<li>GoIT | AQA (Automation)  Engineer
-</li>April 2024- July 2024
+<li>GoIT | AQA (Automation)  Engineer (online studies)
+</li>April 2024- July 2024 (in progress)
 
-<li>GoIT | QA Manual Engineer
+<li>GoIT | QA Manual Engineer (online studies)
 </li>November 2023- March 2024
 
-<li>Real Estate School in New Jersey, USA
+<li>Real Estate School (New Jersey, USA)
 </li>March 2011 – May 2011
 
-<li>Baruch College- BBA Finance Management
+<li>Baruch College- BBA Finance Management (NYC, USA)
 </li>September 1997 - May 2002 
 
 
