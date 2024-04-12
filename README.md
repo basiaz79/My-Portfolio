@@ -35,8 +35,13 @@ DBeaver is to manage databases,
 • Can create tables, insert, update and delete data and query the database to extract valuable information using SQL
 •	Can write complex requests using subqueries,
 <li>JSON</br>
-<li>HTML+ CSS</br>
+o	Tools: Editor JSON,
 <li>XML</br>
+o	Tools: Editor XML
+<li>HTML+ CSS</br>
+o	Tools: Compiler HTML 
+<li>CI/CD</br>
+Command Line Terminal
 <li>Test cases and scenarios</br>
 <li>Bug reports</br>
 <li>Preparing test reports</br>
@@ -71,10 +76,11 @@ Interact with the Trello API, which allowed me to streamline tasks,
 Know the difference between SOAP and REST APIs,
 •	Gained experience through manual testing of the Trello API,
 • Manipulate requests and create test cases using the Postman tool.
-<li>CI/CD</br>
 <li>Mobile Testing</br>
-<li>Black and White-Box Testing</br>
-
+<li>Black-box</br>
+Use of equivalence class techniques and boundary value techniques
+<li>White-Box Testing</br>
+o	Tools: Flowchart app (app.code2flow.com) The diagrams and pseudocode are prepared in a graphic program and inserted into the solution in the form of an image.
 
 
 # <h2>CERTIFICATES</h2>
