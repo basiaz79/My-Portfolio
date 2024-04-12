@@ -144,7 +144,7 @@ Presentation Link
 •	Jira - Overview of some Bug Reports |PL|</br>
 •	TestRail - Example Online Accounting Test Cases |PL|</br>
 
-# <h2>Books</h2>
+# <h2>BOOKS</h2>
 •	<i><b>"Pasja Testowania Wydanie II rozszerzone"</i></b> - Krzysztof Jadczyk (in Polish)</br>
 The Passion for Testing is a handbook intented for people who are taking their first steps in the IT world and considering whether the work of a tester is for them. Software tester - that sounds good! But what are its tasks? What skills are required of him? Which tools will you be expected to know? Where to learn about them? And most of all: how do you know if you're going to be a good tester?</br>
 •	<i><b>"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II"</i></b>  - Adam Roman, Lucjan Stapp, Michaël Pilaeten (in Polish)</br>
