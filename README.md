@@ -20,7 +20,7 @@ successes are celebrated together
 
 I enjoy working in a team and collaborating with others. I am looking for a company where I could use my skills and become a valuable team member.
 
-If you are looking for a QA Engineer with strong analytical skills, and a passion for creating high-quality products, please feel free to contact me.
+If you are looking for a QA Engineer with strong analytical skills, and a passion for creating high-quality products, feel free to contact me.
 
 
 # <h2>CV</h2>
@@ -29,17 +29,17 @@ Link to CV
 # <h2>TECH SKILLS and TOOLS</h2>
 
 <li>SQL</br>
+Can create tables, insert, update and delete data and query the database to extract valuable information
 <li>DBeaver</br>
 DBeaver is to manage databases,
 •	Can connect to the database, view and modify data, run SQL queries,
-• Can create tables, insert, update and delete data and query the database to extract valuable information using SQL
 •	Can write complex requests using subqueries,
 <li>JSON</br>
-o	Tools: Editor JSON,
+o	Tools: Editor JSON (Jsoncrack.com/editor), Notepad++ (notepad-plus-plus.org)
 <li>XML</br>
-o	Tools: Editor XML
+o	Tools: Editor XML (tutorialspoint.com/online_xml_editor.htm)
 <li>HTML+ CSS</br>
-o	Tools: Compiler HTML 
+o	Tools: Compiler HTML (onecompiler.com/html) 
 <li>CI/CD</br>
 Command Line Terminal
 <li>Test cases and scenarios</br>
@@ -78,7 +78,7 @@ Know the difference between SOAP and REST APIs,
 • Manipulate requests and create test cases using the Postman tool.
 <li>Mobile Testing</br>
 <li>Black-box</br>
-Use of equivalence class techniques and boundary value techniques
+Use of equivalence class techniques and boundary value techniques. Coverage determinator.
 <li>White-Box Testing</br>
 o	Tools: Flowchart app (app.code2flow.com) The diagrams and pseudocode are prepared in a graphic program and inserted into the solution in the form of an image.
 
