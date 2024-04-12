@@ -52,7 +52,7 @@ Link to CV
 # <h2>CERTIFICATES</h2>
 
 <li>2024- ISTQB Certificate -in Progress
-<li>2024- QA Manual Engineer Certificate - [QA Manual Certificate]file:///C:/Users/Lenovo/Documents/QA%20Manual%20Certificate%20GoIT.pdf)
+<li>2024- QA Manual Engineer Certificate - [QA Manual Certificate](file:///C:/Users/Lenovo/Documents/QA%20Manual%20Certificate%20GoIT.pdf)
 
 
 # <h2>SOFT SKILLS</h2>
