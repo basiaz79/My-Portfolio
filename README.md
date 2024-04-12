@@ -23,6 +23,9 @@ I enjoy working in a team and collaborating with others. I am looking for a comp
 If you are looking for a QA Engineer with strong analytical skills, and a passion for creating high-quality products, please feel free to contact me.
 
 
+# <h2>CV</h2>
+Link to CV 
+
 # <h2>TECH SKILLS</h2>
 
 <li>SQL</br>
@@ -59,6 +62,8 @@ If you are looking for a QA Engineer with strong analytical skills, and a passio
 <li>Good work organization</br>
 <li>Ability to work independently</br>
 <li>Communication</br>
+<li>Strong Analytical Thinking</br>
+<li>Time Management</br>
 
 
 # <h2>LANGUAGES</h2>
@@ -81,11 +86,6 @@ If you are looking for a QA Engineer with strong analytical skills, and a passio
 
 <li>Baruch College- BBA Finance Management (NYC, USA)
 </li>September 1997 - May 2002 
-
-
-
-
-
 
 
 
