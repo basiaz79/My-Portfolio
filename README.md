@@ -32,9 +32,9 @@ If you are looking for a QA Engineer with strong analytical skills, and a passio
 <li>SQL</br>
 Can create tables, insert, update and delete data and query the database to extract valuable information
 <li>DBeaver</br>
-DBeaver is to manage databases,
-•	Can connect to the database, view and modify data, run SQL queries,
-•	Can write complex requests using subqueries,
+DBeaver is to manage databases
+•	Can connect to the database, view and modify data, run SQL queries
+•	Can write complex requests using subqueries
 <li>JSON</br>
 o	Tools: Editor JSON (Jsoncrack.com/editor), Notepad++ (notepad-plus-plus.org)
 <li>XML</br>
@@ -47,35 +47,35 @@ Command Line Terminal
 <li>Bug reports</br>
 <li>Preparing test reports</br>
 <li>TestRail</br>
-Creating test cases and test suites,
+Creating test cases and test suites
 •	Familiar with using statistics for tracking and reporting testing progress and results.
 <li>Jira</br>
-Creating bug reports,
+Creating bug reports
 • Creating projects and tracking their progress.
 <li>Qase</br>
-Qase for test case management,
-•	Creating, managing, and executing test cases within Qase,
+Qase for test case management
+•	Creating, managing, and executing test cases within Qase
 •	Tracking defects and planning tests in Qase.
 <li>Github</br>
 <li>Git</br>
-Git for version control, including committing changes, creating branches, and merging,
-•	Create repositories, send pull requests, and review code,
+Git for version control, including committing changes, creating branches, and merging
+•	Create repositories, send pull requests, and review code
 •	Familiar with the process of collaborating on projects using Git and GitHub, including best practices for branching and merging.
 <li>DevTools</br>
-Browser's Developer Tools to inspect elements on a website,
-•	Tracking code execution in DevTools,
+Browser's Developer Tools to inspect elements on a website
+•	Tracking code execution in DevTools
 •	Tracking network requests and responses, including HTTP status codes.
 <li>Trello</br>
-Manage various tasks,
-•	Creating, updating and tracking tasks in Trello,
+Manage various tasks
+•	Creating, updating and tracking tasks in Trello
 •	Used Kanban-style Trello boards to visualize project progress.
 <li>Postman</br>
-Interact with the Trello API, which allowed me to streamline tasks,
-• Creating and sending requests to test the functionality and performance of the Trello API,
+Interact with the Trello API, which allowed me to streamline tasks
+• Creating and sending requests to test the functionality and performance of the Trello API
 •	JS tests in Postman to check if the API works as expected.
 <li>API testing</br>
-Know the difference between SOAP and REST APIs,
-•	Gained experience through manual testing of the Trello API,
+Know the difference between SOAP and REST APIs
+•	Gained experience through manual testing of the Trello API
 • Manipulate requests and create test cases using the Postman tool.
 <li>Mobile Testing</br>
 <li>Black-box</br>
@@ -125,12 +125,6 @@ Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 
 <li>Baruch College- BBA Finance Management (NYC, USA)
 </li>September 1997 - May 2002 
-
-
-# <h2>W3Schools</h2>
-
-<li>XML
-<li>MySQL
 
 
 # <h2>My Projects and Examples of Work</h2>
