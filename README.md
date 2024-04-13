@@ -23,8 +23,9 @@ I enjoy working in a team and collaborating with others. I am looking for a comp
 If you are looking for a QA Engineer with strong analytical skills, and a passion for creating high-quality products, feel free to contact me.
 
 
-# <h2>CV</h2>
-Link to CV 
+<h3></br>CV</h3>
+
+[Link to CV](https://drive.google.com/file/d/1ioO2996rUZXCXGaxA_oD85kyhIy2c4FG/view?usp=sharing)
 
 # <h2>TECH SKILLS and TOOLS</h2>
 
@@ -88,7 +89,7 @@ o	Tools: Flowchart app (app.code2flow.com) The diagrams and pseudocode are prepa
 <li>2024- ISTQB Certificate -in Progress
 <li>2024- QA Manual Engineer Certificate</br> 
 
-[Certificate](https://drive.google.com/file/d/1cxdYSNfoE7iIdi4OmQE32YA3ZU3xis1m/view?usp=sharing)
+[QA Manual Certificate](https://drive.google.com/file/d/1cxdYSNfoE7iIdi4OmQE32YA3ZU3xis1m/view?usp=sharing)
 
 
 # <h2>SOFT SKILLS</h2>
@@ -132,7 +133,7 @@ Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 <h3></br>Project</h3>
 
 Presentation Link
-[Presentation](https://docs.google.com/presentation/d/1rtCl5763RXg1zfW-k4Cnb_2lup7242aD/edit?usp=sharing&ouid=102642905155056726664&rtpof=true&sd=true)
+[Kapu$ta Project Presentation](https://docs.google.com/presentation/d/1rtCl5763RXg1zfW-k4Cnb_2lup7242aD/edit?usp=sharing&ouid=102642905155056726664&rtpof=true&sd=true)
 
 
 <h3>Practice</h3>
