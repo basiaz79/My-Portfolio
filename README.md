@@ -127,6 +127,11 @@ Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 </li>September 1997 - May 2002 
 
 
+# <h2>W3Schools</h2>
+
+<li>XML
+<li>MySQL
+
 
 # <h2>My Projects and Examples of Work</h2>
 
