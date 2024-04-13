@@ -127,7 +127,7 @@ Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 </li>September 1997 - May 2002 
 
 
-# <h2>My Projects and Examples of Work</h2>
+# <h2>PROJECTS and Practice/Examples of WORK</h2>
 
 <h3></br>Project</h3>
 
@@ -137,12 +137,55 @@ Presentation Link
 
 <h3>Practice/Examples of Works</h3>
 
-•	Skype - Bug Report | Practice |PL|</br>
-•	Documentation testing - Listboxer |PL|</br>
-•	Slack - Smoke testing | Checklist |PL|</br>
-•	Media Markt Web Application - Smoke testing |PL|</br>
-•	Jira - Overview of some Bug Reports |PL|</br>
-•	TestRail - Example Online Accounting Test Cases |PL|</br>
+<li>Usability Testing for Skype app (in PL)</br>
+
+[BR 1 for Skype](https://drive.google.com/file/d/10meTzVqcDYseD3DecTSJXbXDiykh5oiC/view?usp=sharing)</br>
+[BR2 for Skype](https://drive.google.com/file/d/10jJwUi_jhwXiVA6GMYB0sNCSUcLhNdX2/view?usp=sharing)</br>
+<li>Static Testing on Documentation, Review Testing and Role-Based Testing (in PL)</br> 
+
+[Documentation](https://drive.google.com/file/d/113qWa8tAkpNUS_IaLqo9i1ROgnEyncx_/view?usp=sharing)</br>
+[Review Testing](https://drive.google.com/file/d/10zBer_vYqptJkvoDqbPWYW0P7ge6IHLq/view?usp=sharing)</br>
+[Role-based](https://drive.google.com/file/d/10tNpe1kiAyWbDLK_8xFGNKw264HTaOH9/view?usp=sharing)</br>
+<li>Smoke Testing - Checklist for Slack App (in PL)</br> 
+
+[Checklist for Slack](https://drive.google.com/file/d/11JGI0yx7JVwwKqTKj9P19Ooj1kVhpHLa/view?usp=sharing)</br>
+<li>Acceptance Testing - Checklist for MediaMarkt App (in PL)</br>
+
+[Checklist for MediaMarkt](https://drive.google.com/file/d/11RI-tKRL1hCZIfg85I8oSMabFjkhVql-/view?usp=sharing)</br>
+<li>Bug Reports on Jira (in PL)</br>
+
+[Jira BR](https://docs.google.com/document/d/1FIsQ-ttIwz83uAOmWlfXg7Pge7IjdP6H5DbIGwGHaZY/edit?usp=sharing)</br>
+<li>Bug Reports on Qase (in PL)</br>
+
+[Qase BR](https://docs.google.com/document/d/11H9IPAHoHD8x9w8Up8DbTVHOgvbRyptY4DDnY0m_dNM/edit?usp=sharing)</br>
+<li>DBeaver databases & SQL queries (in PL)
+
+[DBeaver & SQL](https://drive.google.com/file/d/10HA3E_z2kpMRXMpQCCN-BAtBHU6ti1ng/view?usp=sharing)</br>
+<li>Json & XML diagrams
+
+[Json & XML](https://drive.google.com/file/d/11fx1kbMdmL93CGeHAQQkwtGAGSsE5rXc/view?usp=sharing)</br>
+<li>DevTools for Zalando.pl app</br>
+
+[DevTools](https://drive.google.com/file/d/11DaKeRiRabneOh7ShzmFo8h3GO2c0oll/view?usp=sharing)</br>
+<li>Blackbox testing (in PL)</br>
+
+[Blackbox](https://drive.google.com/file/d/11YvkCtDmYCsybKz4mj5iY3GY0ecmcIxM/view?usp=sharing)</br>
+<li>Whitebox Testing (in PL)</br>
+
+[Whitebox](https://drive.google.com/file/d/10V2Ka0EgKDX0RZes-jp4YpTfaRa0I_4A/view?usp=sharing)</br>
+[Whitebox diagram 1 test](https://drive.google.com/file/d/10iEmfdXbMKa4-lIKHa9Oij77x_PCSKga/view?usp=sharing)</br>
+[Whitebox diagram 2 test](https://drive.google.com/file/d/10_jXywRh_LvTrr4xHxImzVbFVGubGKj_/view?usp=sharing)</br>
+[Whitebox diagram 3 test](https://drive.google.com/file/d/10ZTPPV7f4-fdDtN2J5mxM68pRMx69CHn/view?usp=sharing)</br>
+[Whitebox diagram 4 test](https://drive.google.com/file/d/10VvjQDwvGjn32ihtA_Y_T4rG4Cvpn6d_/view?usp=sharing)</br>
+
+<li>Postman API & Trello</br>
+
+[Postman & Trello](https://drive.google.com/file/d/10OAbEH81qeuwGlhTcpDzEw7k335jz23n/view?usp=sharing)</br>
+                                                                                                        
+<li>Mobile Testing on Todo App 
+
+[Mobile BR](https://drive.google.com/file/d/10UoaOkgtPBKVETS3u21R_BTEpzKOsHFm/view?usp=sharing)</br>
+
 
 # <h2>BOOKS</h2>
 •	<i><b>"Pasja Testowania Wydanie II rozszerzone"</i></b> - Krzysztof Jadczyk (in Polish)</br>
