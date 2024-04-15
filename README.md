@@ -20,7 +20,7 @@ If you are looking for a QA Engineer with strong analytical skills, and a passio
 # <h2>TECH SKILLS and TOOLS</h2>
 
 <li>SQL</br>
-Can create tables, insert, update and delete data and query the database to extract valuable information
+Can create tables, insert, update, and delete data, and query the database to extract valuable information
 <li>DBeaver</br>
 DBeaver is to manage databases
 •	Can connect to the database, view and modify data, run SQL queries
