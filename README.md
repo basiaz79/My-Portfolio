@@ -2,12 +2,7 @@
 
 # <h2>ABOUT ME</h2>
 
-I am a Junior Quality Assurance Engineer.
-My interest in software testing comes from my conviction
-that it is important to test in order to create high-quality
-products and from my strengths, such as the ability to
-analyze and problem solving, attention to detail, and
-communication skills.
+I am a Junior Quality Assurance Engineer. My interest in software testing comes from my conviction that it is important to test to create high-quality products and from my strengths, such as the ability to analyze and problem-solve, attention to detail, and communication skills.
 
 I have basic knowledge and practical experience in testing SQL, API, HTML, XML, JSON. I have practiced extensively using tools such Testrail, Jira, Qase, Trello, DBeaver, Postman and DevTools. Currently I continue expanding my knowledge into Automation testing.
 
